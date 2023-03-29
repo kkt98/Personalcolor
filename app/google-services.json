@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448405444460",
+    "project_id": "plucky-agency-374404",
+    "storage_bucket": "plucky-agency-374404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448405444460:android:eae2eba147be6338014549",
+        "android_client_info": {
+          "package_name": "com.tting.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448405444460-o2vp58hi74uvk53qhc5fp5rvgu5hbgup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxqBBQ6ehikyrGxCOhXoWpCnU2MRmh1QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448405444460-o2vp58hi74uvk53qhc5fp5rvgu5hbgup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
