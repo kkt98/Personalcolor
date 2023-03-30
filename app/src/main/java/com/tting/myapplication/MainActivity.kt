@@ -34,6 +34,7 @@ class MainActivity : AppCompatActivity() {
         val transForm = TransForm()
 
         Log.d(TAG,"이미지 확인 : 1" )
+        Log.d(TAG,"이미지 확인 : 2" )
 
         Log.d(TAG,"이미지 확인 :")
 
