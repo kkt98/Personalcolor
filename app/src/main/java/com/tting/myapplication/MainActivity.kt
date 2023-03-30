@@ -33,6 +33,8 @@ class MainActivity : AppCompatActivity() {
 
         val transForm = TransForm()
 
+        Log.i(TAG, "GITLAB TEST")
+
         Log.d(TAG,"이미지 확인 :")
 
         //view 사이즈에 맞게 bitmap 크기 변경
