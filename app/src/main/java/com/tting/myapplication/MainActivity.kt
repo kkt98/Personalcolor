@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
 
         val transForm = TransForm()
 
-        Log.i(TAG, "GITLAB TEST")
+        Log.i(TAG, "GITLAB TEST1")
 
         Log.d(TAG,"이미지 확인 :")
 
