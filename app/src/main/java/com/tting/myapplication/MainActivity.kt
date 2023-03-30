@@ -33,11 +33,6 @@ class MainActivity : AppCompatActivity() {
 
         val transForm = TransForm()
 
-        Log.d(TAG,"이미지 확인 : 1" )
-        Log.d(TAG,"이미지 확인 : 2" )
-        Log.d(TAG,"이미지 확인 : 3" )
-        Log.d(TAG,"이미지 확인 : 4" )
-
         Log.d(TAG,"이미지 확인 :")
 
         //view 사이즈에 맞게 bitmap 크기 변경
