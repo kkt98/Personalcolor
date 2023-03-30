@@ -33,12 +33,7 @@ class MainActivity : AppCompatActivity() {
 
         val transForm = TransForm()
 
-<<<<<<<<< Temporary merge branch 1
-        Log.i(TAG, "GITLAB TEST1")
-=========
-        Log.d(TAG,"이미지 확인 : 1" )
-        Log.d(TAG,"이미지 확인 : 2" )
->>>>>>>>> Temporary merge branch 2
+        Log.d(TAG,"이미지 확인 : 61")
 
         Log.d(TAG,"이미지 확인 :")
 
